@@ -1,4 +1,4 @@
-This project was a guided project from Coursera https://www.coursera.org/projects/introduction-to-docker-build-portfolio-site?
+https://coursera.org/verify/M6NAT5H3XUTT
 
 ![Introduction to Docker Build Your Own Portfolio Site](https://user-images.githubusercontent.com/36702039/209714065-83bbcd14-a5e8-4a76-bc00-4228e7d1e840.png)
 
